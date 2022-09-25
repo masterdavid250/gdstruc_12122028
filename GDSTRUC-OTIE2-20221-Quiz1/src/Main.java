@@ -20,7 +20,6 @@ public class Main {
 
        selectionSort(numbers);
        // bubbleSort(numbers);
-       // modifiedSelectionSort(numbers);
 
         System.out.println("\n\nAfter bubble sort:" );
         //System.out.println("\n\nAfter bubble sort:" );
